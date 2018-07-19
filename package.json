@@ -1,0 +1,19 @@
+{
+  "name": "testdeploy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^10.1.2",
+    "thor-model-kit": "^0.2.0",
+    "thorify": "^0.3.3",
+    "ts-node": "^6.0.3",
+    "typescript": "^2.8.3",
+    "web3": "^1.0.0-beta.34"
+  }
+}
